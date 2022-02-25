@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gastarbeitermaisterII
-- 👀 I’m interested in ... html, python, lua and I like making little games on places like roblox or random lyric generators and other things
-- 🌱 I’m currently learning ... html, python, lua and geometry B)
-- 💞️ I’m looking to collaborate on ... melee systems
-- 📫 How to reach me ... nowhere
+- 👀 I’m interested in html, python & lua
+- 🌱 I’m currently learning ... html, python and lua B)
+- 💞️ I’m looking to collaborate on melee systems
+- 📫 How to reach me nowhere
 
 <!---
 gastarbeitermaisterII/gastarbeitermaisterII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
