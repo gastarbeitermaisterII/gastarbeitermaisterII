@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning ... html, python and lua B)
 - 💞️ I’m looking to collaborate on melee systems
 - 📫 How to reach me nowhere
+- 🤮 CSS
+- 😎 coding in notepad
 
 <!---
 gastarbeitermaisterII/gastarbeitermaisterII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
